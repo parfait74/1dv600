@@ -1,0 +1,12 @@
+# Package Files #
+*.jar
+*.war
+*.ear
+*.zip
+
+#OSX folder options#
+.DS_Store
+
+#vagrant files#
+.vagrant
+

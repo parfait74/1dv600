@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="PingResourceTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2016-03-26T23:19:15" hostname="vagrant" time="0.862">
+  <properties/>
+  <testcase name="testGetPing" classname="PingResourceTest" time="0.862"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
